@@ -6,4 +6,8 @@ public class weapon {
     private int ammo;
     private String name;
 
+    public int getAmmo(){
+
+        return ammo;
+    }
 }
