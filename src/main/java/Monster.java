@@ -10,5 +10,8 @@ import lombok.*;
     private String Color;
     private int dangerLevel;
 
+    public static void scream() {
+        System.out.print("Gaararrarrah!!!");
+    }
 
 }
